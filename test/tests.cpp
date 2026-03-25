@@ -1,9 +1,9 @@
 // Copyright 2021 GHA Test Team
 
-#include <stdexcept>
-
 #include <gmock/gmock.h>
 #include <gtest/gtest.h>
+
+#include <stdexcept>
 
 #include "TimedDoor.h"
 
